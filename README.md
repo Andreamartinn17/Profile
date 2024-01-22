@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andreamartinn17&repo=github-readme-stats)](https://github.com/Andreamartinn17/github-readme-stats)
+## Github Profile 
+### *Andrea Martín*
+**Full Stack Developer**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreamartinn17&show_icons=true)
 
 <!--
 **Andreamartinn17/Andreamartinn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
